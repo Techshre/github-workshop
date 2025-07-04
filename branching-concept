@@ -1,0 +1,18 @@
+git branch - every branch has their own code copy
+we use this concept where multiple users work on a single app code where they works on diff-diff services we use the branch concept in this concept they can work on their code in a isolated and seperate environment after testing the code is this working in a right way or not we merge the code in main branch 
+
+basically we can divide the code in multiple segments for working smoothly.
+
+git branch - list output all the branches which are present in working directory .
+
+git branch dev - create a new branch which name is dev
+
+git switch - switch between one branch to another branch
+
+git checkout -b stage - it create a branch which name is stage and also shifted to stage branch
+
+git merge - merge two branches with their data
+
+head - latest commit of the branch
+
+ 
