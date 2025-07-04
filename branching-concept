@@ -15,4 +15,7 @@ git merge - merge two branches with their data
 
 head - latest commit of the branch
 
+git fetch - push the remote branches to local use fetch 
+and pull used to copy the data that branch
+
  
