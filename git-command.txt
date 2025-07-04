@@ -15,4 +15,11 @@ git - git is a distributed version control system which allows multiple develope
 
 git hub - git hub is a source code management  platform which allows multiple developers work on their code collectivly, track their code and manage their code and files on globally by a central repo system over the internet.
 
+git push - we can push our local changes in code to remote repo to synchronize the code. 
+git pull - we can pull the changes in our code from remote to local .
+git remote add - we can add our repo link which is represent on github on local machine and create a alias of that link.
+git remote -v - check repo link is this connect with local or not
+fork - we can copy other repository in our github we use fork it works on github to github
+git clone - use for copy the repo from github to local 
+
 
