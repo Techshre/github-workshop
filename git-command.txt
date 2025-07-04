@@ -1,0 +1,18 @@
+first one hour of revising git from basic 
+
+
+git init - initialized a git in working repository
+
+git staus - check the status of files they are tracked , untracked , modified 
+
+git add - this command add the files untracked to staging area for the purpose of tracking by git version control system
+
+git commit - we use this command to track all the files by git  which is present in the staging area
+
+git restore - we use this command to restore the file which tracked by git but suddenly deleted in the system. we can restore all the deleted files which are tracked by git.
+
+git - git is a distributed version control system which allows multiple developers work on their code simultaneously, track their code and files , versioning their files, and manage all the versions of their code on local machine.
+
+git hub - git hub is a source code management  platform which allows multiple developers work on their code collectivly, track their code and manage their code and files on globally by a central repo system over the internet.
+
+
